@@ -5,18 +5,18 @@ from pyrogram.types import *
 from TGNRobot.conf import get_str_key
 from TGNRobot import pbot
 
-REPO_TEXT = "**A Powerful [BOT](https://telegra.ph/file/cab6825dea9263d347831.jpg) to Make Your Groups Secured and Organized ! \n\n↼ Øwñêr ⇀ : 『 [Akki](t.me/godfatherakki) 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Recently\n╰──────────────\n\n»»» @The_Godfather_Network «««"
+REPO_TEXT = "**A Powerful [BOT](https://telegra.ph/file/cab6825dea9263d347831.jpg) to Make Your Groups Secured and Organized ! \n\n↼ Øwñêr ⇀ : 『 [MUKUND](t.me/LEGEND_MUKUND) 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Recently\n╰──────────────\n\n»»» @ALIEN_X_SUPPORT «««"
   
 BUTTONS = InlineKeyboardMarkup(
       [[
-        InlineKeyboardButton("⚡ ʀᴇᴘᴏꜱɪᴛᴏʀʏ🔥", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
-        InlineKeyboardButton(" ᴊᴏɪɴ 💫", url=f"https://t.me/Superior_Bots"),
+        InlineKeyboardButton("⚡ ʀᴇᴘᴏꜱɪᴛᴏʀʏ🔥", url=f"https://github.com/mukund123456/HYPER-V"),
+        InlineKeyboardButton(" ᴊᴏɪɴ 💫", url=f"https://t.me/ALIEN_X_SUPPORT"),
       ],[
-        InlineKeyboardButton("ᴛɢɴ ᴏᴡɴᴇʀ ❣️", url="https://t.me/godfatherakki"),
-        InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/GodfatherSupport"),
+        InlineKeyboardButton("ʜᴠ ᴏᴡɴᴇʀ ❣️", url="https://t.me/LEGEND_MUKUND"),
+        InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/ALIEN_X_SUPPORT"),
       ],[
-        InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇꜱ ☑️", url="https://t.me/The_Godfather_Network"),
-        InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ ➡️", url="https://t.me/Timesisnotwaiting"),
+        InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇꜱ ☑️", url="https://t.me/ALIEN_X_UPDATE"),
+        InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ ➡️", url="https://t.me/LEGEND_MUKUND"),
       ]]
     )
   
