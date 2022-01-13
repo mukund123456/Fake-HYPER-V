@@ -47,7 +47,7 @@ async def couple(_, message):
 
             couple_selection_message = f"""**ɴɪʙʙᴀ ɴɪʙʙɪ ᴏꜰ ᴛʜᴇ ᴅᴀʏ**
 {c1_mention} + {c2_mention} = ❤️
-__ɴᴇᴡ ᴄᴏᴜᴘʟᴇ ᴏꜰ ᴛʜᴇ ᴅᴀʏ ᴍᴀʏ ʙᴇ ᴄʜᴏꜱᴇɴ ᴀᴛ 12ᴀᴍ {tomorrow}__"""
+__ɴɪʙʙᴀ ɴɪʙʙɪ ᴏꜰ ᴛʜᴇ ᴅᴀʏ ᴍᴀʏ ʙᴇ ᴄʜᴏꜱᴇɴ ᴀᴛ 12ᴀᴍ {tomorrow}__"""
             await app.send_message(
                 message.chat.id,
                 text=couple_selection_message
