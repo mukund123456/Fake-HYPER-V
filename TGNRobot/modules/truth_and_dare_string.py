@@ -16,6 +16,7 @@ TRUTH = (
     "When’s the last time you lied to your parents and why?",
     "Have you ever lied about your age to participate in a contest?",
     "Have you ever been caught checking someone out?",
+    "If your ex asks for patch up and at the same time your Best friend proposes you !!! Whom would you accept ???",
   
 )
 
@@ -70,4 +71,6 @@ DARE = (
     "Send a screenshot of your gallery.",
     "Set your crush’s picture as your dp.",
     "Suggest me more dares.",
+    "Click a photo while kissing ur best frnd",
+    
 )
